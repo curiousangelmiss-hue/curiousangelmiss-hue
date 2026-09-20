@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Curious Angel Miss 👋
 
-<!--
-**curiousangelmiss-hue/curiousangelmiss-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Biotechnology Student | Data Analytics Learner | Teacher | Python & Bioinformatics Enthusiast
 
-Here are some ideas to get you started:
+I am a Biotechnology student with a growing interest in **data analytics, Python programming, bioinformatics, and scientific research**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside my university studies, I am developing practical skills in **Python, Excel, SQL, data analysis, and computational biology**. I also enjoy teaching and sharing knowledge, which helps me strengthen my own understanding while helping others learn.
+
+### 🧬 Areas I'm Exploring
+
+* Biotechnology & Life Sciences
+* Bioinformatics
+* Python Programming
+* Data Analytics
+* Excel & SQL
+* Scientific Research
+* Teaching & Education
+
+### 💻 Current Learning Journey
+
+* 🐍 Python Programming
+* 📊 Data Analytics & Business Intelligence
+* 🧬 Bioinformatics
+* 🗃️ SQL & Databases
+* 📈 Excel & Data Visualization
+
+### 🚀 Featured Project
+
+**Mini Shop Management System**
+
+A beginner-friendly Python project developed to practice:
+
+* Dictionaries
+* Functions
+* Lists
+* Tuples
+* Sets
+* Loops
+* Conditional statements
+* Menu-driven programming
+
+### 🎯 My Goal
+
+To build a strong intersection between **Biotechnology, Data, and Computational Science** while continuously developing practical skills through projects and learning.
+
+> Learning consistently. Building practically. Growing intentionally.
+
+---
+
+### 📫 Let's Connect
+
+I am always interested in learning, collaborating, and exploring opportunities related to **Biotechnology, Bioinformatics, Data Analytics, and Education**.
