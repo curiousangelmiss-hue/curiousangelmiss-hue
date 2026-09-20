@@ -1,4 +1,4 @@
-# Hi, I'm Curious Angel Miss 👋
+# Hi, I'm Vaniza 👋
 
 ### Biotechnology Student | Data Analytics Learner | Teacher | Python & Bioinformatics Enthusiast
 
