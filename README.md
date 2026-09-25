@@ -24,21 +24,6 @@ Alongside my university studies, I am developing practical skills in **Python, E
 * 🗃️ SQL & Databases
 * 📈 Excel & Data Visualization
 
-### 🚀 Featured Project
-
-**Mini Shop Management System**
-
-A beginner-friendly Python project developed to practice:
-
-* Dictionaries
-* Functions
-* Lists
-* Tuples
-* Sets
-* Loops
-* Conditional statements
-* Menu-driven programming
-
 ### 🎯 My Goal
 
 To build a strong intersection between **Biotechnology, Data, and Computational Science** while continuously developing practical skills through projects and learning.
